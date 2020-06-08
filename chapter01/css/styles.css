@@ -7,7 +7,9 @@ a:hover {
 }
 
 h1 {
-
+  color: whitesmoke;
+  background-color: #333;
+  font-size: 1.5em;
 }
 
 h2 {

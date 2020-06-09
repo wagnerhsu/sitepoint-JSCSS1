@@ -7,9 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
+<<<<<<< HEAD
   "author": "Wagner Xu",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.5.0"
+=======
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+>>>>>>> 5c677c5765fc2624c7b7e96752f2253ebb7b4810
   }
 }

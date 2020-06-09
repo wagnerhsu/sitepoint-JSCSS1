@@ -1,0 +1,8 @@
+node_modules/
+packages/
+.vs/
+bin/
+obj/
+/MarkdownViewer/markdown.db
+/MarkdownViewer/wwwroot/Zip/
+/MarkdownViewer/wwwroot/Markdown/
